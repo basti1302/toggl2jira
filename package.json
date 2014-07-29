@@ -1,0 +1,19 @@
+{
+  "name": "toggl-jira",
+  "version": "0.0.0",
+  "description": "Syncing from Toggl to Jira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Toggl",
+    "Jira",
+    "Timetracking"
+  ],
+  "author": "Bastian Krol <bastian.krol@web.de>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.39.0"
+  }
+}
