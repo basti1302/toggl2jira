@@ -4,6 +4,10 @@
     "userAgent": "your.email@example.org",
     "workspaceId": "123456",
     "since": "2014-08-01",
-    "until": "2014-07-03"
+    "until": "2014-08-30"
+  },
+  "print": {
+    "from": "2014-08-10",
+    "until": "2014-08-20"
   }
 }
