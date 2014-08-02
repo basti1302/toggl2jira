@@ -1,0 +1,191 @@
+{
+   "total_currencies" : [
+      {
+         "currency" : null,
+         "amount" : null
+      }
+   ],
+   "total_grand" : 86648000,
+   "data" : [
+      {
+         "total_currencies" : [
+            {
+               "currency" : null,
+               "amount" : null
+            }
+         ],
+         "time" : 23100000,
+         "title" : {
+            "client" : "Provinzial",
+            "project" : "2014-0431-B: Architekturberatung ProMakler"
+         },
+         "id" : 5169336,
+         "items" : [
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 4500000,
+               "title" : {
+                  "time_entry" : "Besprechung Architektur Maklerportal // 24/7"
+               },
+               "sum" : null
+            },
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 18600000,
+               "title" : {
+                  "time_entry" : "Entscheidungsvorlage Architktur Maklerzugang"
+               },
+               "sum" : null
+            }
+         ]
+      },
+      {
+         "total_currencies" : [
+            {
+               "currency" : null,
+               "amount" : null
+            }
+         ],
+         "time" : 2520000,
+         "title" : {
+            "client" : "Provinzial",
+            "project" : "2014-0434-B: Auswahl neues Buildverfahren"
+         },
+         "id" : 5169364,
+         "items" : [
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 2520000,
+               "title" : {
+                  "time_entry" : "Support Git/EGit Timo"
+               },
+               "sum" : null
+            }
+         ]
+      },
+      {
+         "total_currencies" : [
+            {
+               "currency" : null,
+               "amount" : null
+            }
+         ],
+         "time" : 53528000,
+         "title" : {
+            "client" : "Provinzial",
+            "project" : "2014-0484-A: Implementierung Makler-Portal"
+         },
+         "id" : 5169305,
+         "items" : [
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 2700000,
+               "title" : {
+                  "time_entry" : "Besprechung Benutzerverwaltung (Karsten Spenrath, Tobias Wingerter)"
+               },
+               "sum" : null
+            },
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 6300000,
+               "title" : {
+                  "time_entry" : "Besprechung mit Norman"
+               },
+               "sum" : null
+            },
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 4680000,
+               "title" : {
+                  "time_entry" : "Dokumentierung Workshop"
+               },
+               "sum" : null
+            },
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 10800000,
+               "title" : {
+                  "time_entry" : "Entscheidungsvorlage Architktur Maklerzugang"
+               },
+               "sum" : null
+            },
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 27248000,
+               "title" : {
+                  "time_entry" : "Integration Tomcat Container Managed Security"
+               },
+               "sum" : null
+            },
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 1800000,
+               "title" : {
+                  "time_entry" : "Telko Lifery Carsten Mjartan"
+               },
+               "sum" : null
+            }
+         ]
+      },
+      {
+         "total_currencies" : [
+            {
+               "currency" : null,
+               "amount" : null
+            }
+         ],
+         "time" : 2700000,
+         "title" : {
+            "client" : "Provinzial",
+            "project" : "Provi misc"
+         },
+         "id" : 5169275,
+         "items" : [
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 2700000,
+               "title" : {
+                  "time_entry" : "Besprechung Malzkorn Dokumentenupload"
+               },
+               "sum" : null
+            }
+         ]
+      },
+      {
+         "total_currencies" : [
+            {
+               "currency" : null,
+               "amount" : null
+            }
+         ],
+         "time" : 4800000,
+         "title" : {
+            "client" : "codecentric",
+            "project" : "Recruiting"
+         },
+         "id" : 5311696,
+         "items" : [
+            {
+               "rate" : 0,
+               "cur" : null,
+               "time" : 4800000,
+               "title" : {
+                  "time_entry" : "Vorstellungsgespräch"
+               },
+               "sum" : null
+            }
+         ]
+      }
+   ],
+   "total_billable" : null
+}

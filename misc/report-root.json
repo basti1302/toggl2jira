@@ -1,0 +1,34 @@
+{
+   "Welcome to reports api V2. VALID requests are:" : [
+      {
+         "GET" : "/reports/api/v2/division_by_zero_error(.*)"
+      },
+      {
+         "*" : "/reports/api/v2/revision(.*)"
+      },
+      {
+         "*" : "/reports/api/v2/index(.*)"
+      },
+      {
+         "*" : "/reports/api/v2(.*)"
+      },
+      {
+         "*" : "/reports/api/v2/bookmark(.*)"
+      },
+      {
+         "GET" : "/reports/api/v2/combo(.*)"
+      },
+      {
+         "GET" : "/reports/api/v2/env(.*)"
+      },
+      {
+         "GET" : "/reports/api/v2/weekly(.*)"
+      },
+      {
+         "GET" : "/reports/api/v2/details(.*)"
+      },
+      {
+         "GET" : "/reports/api/v2/summary(.*)"
+      }
+   ]
+}

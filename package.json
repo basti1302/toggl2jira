@@ -2,6 +2,7 @@
   "name": "toggl-jira",
   "version": "0.0.0",
   "description": "Syncing from Toggl to Jira",
+  "repository": "https://github.com/basti1302/toggl2jira.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +15,8 @@
   "author": "Bastian Krol <bastian.krol@web.de>",
   "license": "MIT",
   "dependencies": {
+    "moment": "^2.7.0",
+    "nconf": "^0.6.9",
     "request": "^2.39.0"
   }
 }

@@ -1,0 +1,9 @@
+{
+  "toggl": {
+    "apiToken": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "userAgent": "your.email@example.org",
+    "workspaceId": "123456",
+    "since": "2014-08-01",
+    "until": "2014-07-03"
+  }
+}
