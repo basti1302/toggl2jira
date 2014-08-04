@@ -1,5 +1,9 @@
 'use strict';
 
+/*
+ * Fetches data from Toggl.
+ */
+
 var nconf = require('nconf')
   , fetchTogglReport = require('./lib/fetch_toggl_report')
   ;

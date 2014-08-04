@@ -1,3 +1,4 @@
 node_modules
 data/toggl
+data/worklog
 config.json
