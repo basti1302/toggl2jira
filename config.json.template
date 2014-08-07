@@ -1,13 +1,16 @@
 {
+  "range": {
+    "from": "2014-07-01",
+    "until": "2014-07-31"
+  },
   "toggl": {
     "apiToken": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "userAgent": "your.email@example.org",
-    "workspaceId": "123456",
-    "since": "2014-08-01",
-    "until": "2014-08-30"
+    "workspaceId": "123456"
   },
-  "print": {
-    "from": "2014-08-10",
-    "until": "2014-08-20"
+  "jira": {
+    "base-url": "https://jira.example.org:8080/jira/",
+    "username": "alice",
+    "password": "v3rys3cre7"
   }
 }
