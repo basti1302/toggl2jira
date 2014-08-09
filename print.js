@@ -1,5 +1,7 @@
 'use strict';
 
+require('./lib/init_nconf');
+
 var level = require('level')
   , db = level('./data/worklog')
   ;

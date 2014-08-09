@@ -4,12 +4,8 @@
  * Fetches data from Toggl.
  */
 
-var nconf = require('nconf')
-  , fetchTogglReport = require('./lib/fetch_toggl_report')
-  ;
+require('./lib/init_nconf');
 
-nconf.argv()
-  .env()
-  .file({ file: './config.json' });
+var fetchTogglReport = require('./lib/fetch_toggl_report');
 
 fetchTogglReport();

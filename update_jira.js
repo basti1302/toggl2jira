@@ -1,11 +1,7 @@
 'use strict';
 
-var nconf = require('nconf')
-  , updateJira = require('./lib/update_jira')
-  ;
+require('./lib/init_nconf');
 
-nconf.argv()
-  .env()
-  .file({ file: './config.json' });
+var updateJira = require('./lib/update_jira');
 
 updateJira();
