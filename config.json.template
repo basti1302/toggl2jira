@@ -12,5 +12,18 @@
     "base-url": "https://jira.example.org:8080/jira/",
     "username": "alice",
     "password": "v3rys3cre7"
-  }
+  },
+  "projects": [{
+    "togglProjectId": 1234567,
+    "jiraTicket": "XYZ-123",
+    "description": "Put any text you like into the description"
+  }, {
+    "togglProjectId": 9876543,
+    "jiraTicket": "XYZ-987",
+    "description": "Implement a distributed Foobar Thingy"
+  }, {
+    "togglProjectId": 1123581,
+    "jiraTicket": "XYZ-246",
+    "description": "Consulting"
+  }]
 }
