@@ -1,2 +1,2 @@
-* Fetch from Toggl in multiple requests, otherwise, if you fetch a whole month
-  only 50 or so items will be fetched because of paging.
+* Mark worklog items that have been posted to jira so they will not be pasted
+  again on a second run

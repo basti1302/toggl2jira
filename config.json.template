@@ -20,10 +20,10 @@
   }, {
     "togglProjectId": 9876543,
     "jiraTicket": "XYZ-987",
-    "description": "Implement a distributed Foobar Thingy"
+    "description": "I mostly use the title of the Jira issue here"
   }, {
     "togglProjectId": 1123581,
     "jiraTicket": "XYZ-246",
-    "description": "Consulting"
+    "description": "or the title of the Toggl project"
   }]
 }
