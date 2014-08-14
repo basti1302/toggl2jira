@@ -12,7 +12,8 @@
     "base-url": "https://jira.example.org:8080/jira/",
     "username": "alice",
     "password": "v3rys3cre7",
-    "cumulated": true
+    "cumulated": true,
+    "dryRun": false
   },
   "projects": [{
     "togglProjectId": 1234567,
